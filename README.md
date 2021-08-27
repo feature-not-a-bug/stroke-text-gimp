@@ -16,4 +16,4 @@ After copying the file and refreshing GIMP a new Layers menu item named **Stroke
 
 Copyright (c) Deepak Sharma. All rights reserved.
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](license.txt) license.
