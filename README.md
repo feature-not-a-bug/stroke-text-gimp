@@ -1,6 +1,6 @@
 # Stroke Text - Gimp Script
 
-A script that makes it easy to rasterize a text layer and stroke the text with a background color.
+GIMP script that strokes text with the currently selected background color. Expects a text layer to be selected and will rasterize the text layer and merge with the background color.
 
 ## Example
 
