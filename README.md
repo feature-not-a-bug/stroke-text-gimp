@@ -2,10 +2,14 @@
 
 GIMP script that strokes text with the currently selected background color. Expects a text layer to be selected and will rasterize the text layer and merge with the background color.
 
-## Example
+## Examples
 
 <p align="center">
   <img alt="Elephant with text" src="https://i.imgur.com/JX2hpaA.jpg">
+</p>
+
+<p align="center">
+  <img alt="Elephant with text" src="https://i.imgur.com/72ERYtZ.jpg">
 </p>
 
 ## Usage
