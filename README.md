@@ -2,6 +2,8 @@
 
 GIMP script that strokes text with the currently selected background color. Expects a text layer to be selected and will rasterize the text layer and merge with the background color.
 
+**This repository is being archived and is superceded by the Gimp v3 API compliant version at** (stroke-text-gimp-v3)[https://github.com/feature-not-a-bug/stroke-text-gimp-v3]
+
 ## Examples
 
 <p align="center">
